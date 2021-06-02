@@ -14,7 +14,7 @@ setup(
         'docopt==0.6.2',
         'idna==2.9',
         'soupsieve==2.0',
-        'urllib3==1.25.8',
+        'urllib3==1.26.5',
     ],
     entry_points='''
         [console_scripts]
