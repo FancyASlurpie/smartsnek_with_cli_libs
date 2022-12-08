@@ -8,7 +8,7 @@ setup(
     install_requires=[
         'beautifulsoup4==4.8.2',
         'bs4==0.0.1',
-        'certifi==2019.11.28',
+        'certifi==2022.12.7',
         'chardet==3.0.4',
         'click==7.1.1',
         'docopt==0.6.2',
